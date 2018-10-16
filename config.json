@@ -1,7 +1,8 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://dw-my-first.herokuapp.com",
+  "change_calculator": "https://dw-change-calculator.herokuapp.com",
+  "mortgage_calculator": "https://dw-mortgage-calculator.herokuapp.com",
+  "top_spots": "https://dw-sandiego-top-spots.herokuapp.com",
+  "vstda": "https://dw-vstda.herokuapp.com",
+  "hackathon": "https://dw-hackathon.herokuapp.com"
 }
